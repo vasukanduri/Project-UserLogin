@@ -1,0 +1,6 @@
+c:\users\pavan\documents\visual studio 2013\Projects\PatientLogin\PatientLogin\bin\PatientLogin.dll.config
+c:\users\pavan\documents\visual studio 2013\Projects\PatientLogin\PatientLogin\bin\PatientLogin.dll
+c:\users\pavan\documents\visual studio 2013\Projects\PatientLogin\PatientLogin\bin\PatientLogin.pdb
+c:\users\pavan\documents\visual studio 2013\Projects\PatientLogin\PatientLogin\obj\Debug\PatientLogin.csprojResolveAssemblyReference.cache
+c:\users\pavan\documents\visual studio 2013\Projects\PatientLogin\PatientLogin\obj\Debug\PatientLogin.dll
+c:\users\pavan\documents\visual studio 2013\Projects\PatientLogin\PatientLogin\obj\Debug\PatientLogin.pdb
